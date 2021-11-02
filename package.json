@@ -1,0 +1,25 @@
+{
+  "name": "input-mask-decimal",
+  "version": "1.0.0",
+  "description": "Este projeto tem como objetivo criar uma mascara para os input onde o funcionamento seja parecido com os caixas de terminais bancarios.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulaoBR/Input-mask-decimal.git"
+  },
+  "author": "Julio Cesar da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JulaoBR/Input-mask-decimal/issues"
+  },
+  "homepage": "https://github.com/JulaoBR/Input-mask-decimal#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
